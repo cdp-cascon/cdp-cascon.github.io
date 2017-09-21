@@ -19,7 +19,7 @@ keywords:    "CASCON, Workshop, Compiler, Anlaysis, Performance,"
 description: ""
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: "" ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: "UA-106831011-1" ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
